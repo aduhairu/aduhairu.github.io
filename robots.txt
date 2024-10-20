@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://aduhairu.github.io/Jsh/sitemap_index.txt.gz
+Sitemap: https://aduhairu.github.io/LQi/sitemap_index.txt.gz
+Sitemap: https://aduhairu.github.io/MOf/sitemap_index.txt.gz
+Sitemap: https://aduhairu.github.io/VyK/sitemap_index.txt.gz
+Sitemap: https://aduhairu.github.io/kvW/sitemap_index.txt.gz
